@@ -1,3 +1,4 @@
+package interfaces.orders;
 
 public interface InterfaceAdress {
 	String name1;
